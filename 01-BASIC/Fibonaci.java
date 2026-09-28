@@ -14,7 +14,7 @@ class Fibonaci{
             a=temp;
             count++;   
         }
-
+        
         // while(count<=num){
         //     temp= b;
         //     b=a+b;
